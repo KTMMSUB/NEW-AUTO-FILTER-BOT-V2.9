@@ -13,23 +13,23 @@
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MytelegramOrg_Bot",
-            "value": ""
+            "value": "id27436380"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org or @MT_MytelegramOrg_Bot",
-            "value": ""
+            "value": "5b7b6071e790f6c28f5e05d500e1f6c4"
         },
         "BOT_NAME": {
             "description": "Enter Your Bot Name From @BotFather",
-            "value": "DonLee_Robot"
+            "value": "[KT] Auto Reply Bot"
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "5808389519:AAGrJpgDLd6dwN7ksc5YarbBk6Ys6GpQ7eo"
         },
         "DB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://KTfilter:f@ktfilter.zgvr4yl.mongodb.net/?retryWrites=true&w=majority"
         },
         "SIZE_BUTTON": {
             "description": "How To Use This Key Watch Tutorial Video - ()",
@@ -55,7 +55,7 @@
         },
         "OWNER_ID": {
            "description": "You're id From @MT_Id_Bot",
-           "value": "1876193641"
+           "value": "1517924260"
         },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @MT_usersession_Bot",
